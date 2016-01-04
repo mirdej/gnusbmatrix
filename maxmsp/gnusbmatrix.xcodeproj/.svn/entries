@@ -1,0 +1,76 @@
+8
+
+dir
+13
+http://james.local:8008/devel/trunk/avr/gnusb/sources/maxmsp/gnusb.xcodeproj
+http://james.local:8008/devel
+
+
+
+2007-11-12T14:09:51.879210Z
+13
+me
+
+
+svn:special svn:externals svn:needs-lock
+
+me.mode1
+file
+18
+
+
+
+2007-11-14T11:57:26.000000Z
+662ed80961d7ef7708a3e35e3ea10f1b
+2007-11-14T12:04:54.068255Z
+18
+me
+
+me.pbxuser
+file
+18
+
+
+
+2007-11-14T11:57:26.000000Z
+7b13110a2b65d15c4521c65a502029ee
+2007-11-14T12:04:54.068255Z
+18
+me
+
+anyma.mode1
+file
+
+
+
+
+2007-06-21T07:09:45.000000Z
+9a2c5fe7784c1e99409d01f68fcdd9d4
+2007-11-12T14:09:51.879210Z
+13
+me
+
+project.pbxproj
+file
+
+
+
+
+2007-06-21T07:09:37.000000Z
+b016f8468a6e675d01036a226cbf7df0
+2007-11-12T14:09:51.879210Z
+13
+me
+
+anyma.pbxuser
+file
+
+
+
+
+2007-06-21T07:09:45.000000Z
+b681b517da95d2107591d9ea79313cb0
+2007-11-12T14:09:51.879210Z
+13
+me
+
